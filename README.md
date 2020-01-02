@@ -1,3 +1,6 @@
+Note: This is an updated version to allow support for multiple images. To do so, particles.shape.image should be an array e.g. `[{"src":"image1.png", "width":100, "height":100},{"src":"image2.png", "width":100, "height":100}]`
+
+------------------------------
 ## particles.js
 
 ### A lightweight JavaScript library for creating particles.
