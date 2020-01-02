@@ -5,6 +5,8 @@
 /* GitHub : github.com/VincentGarreau/particles.js
 /* How to use? : Check the GitHub README
 /* v2.0.0
+/* Updated Version with Image Support: https://github.com/matthras/particles.js
+/* Credit of David Busco (@dbusco) for providing the pull request code on the original repo. I'm just the guy who put it together.
 /* ----------------------------------------------- */
 
 var pJS = function(tag_id, params){
